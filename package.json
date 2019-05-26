@@ -1,0 +1,9 @@
+{
+  "name": "lovelace-attribute-card",
+  "version": "0.0.0",
+  "description": "Custom card for Home Assistant Lovelace UI.",
+  "main": "attribute-card.js",
+  "scripts": {},
+  "author": "Hampus Nordin <nordin.hampus@gmail.com> (https://hampusnord.in)",
+  "license": "ISC"
+}
